@@ -1,0 +1,18 @@
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[user]
+	name = Jeremy Hanson-Finger
+	email = jeremy.hansonfinger@shopify.com
+[push]
+	default = current
+[core]
+	editor = nano
+[alias]
+  oops = commit --amend --no-edit
+[git-up "fetch"]
+	prune = true
+[git-up "fetch.rebase"]
+	show-hashes = true
+
