@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"enable_table_editor": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"GitHub Flavored Markdown Preview",
+		"GitHubinator",
+		"Markdown",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"table_editor_syntax": "Simple",
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}
